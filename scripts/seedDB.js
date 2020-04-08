@@ -6,7 +6,7 @@ mongoose.connect(
     process.env.MONGODB_URI ||
     "mongodb://localhost/googlebooks"
 );
-//AIzaSyBhTLgBe2wCZeLbYd7laTpnuIQ38ZlVkXE
+
 const bookSeed =
 {
     authors: ["Harry Potter and the Chamber of Secrets"],
